@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Perfil - Murilo Bezerra</title>
+    <link rel="stylesheet" href="../css/estilo.css">
+</head>
+<body>
+    <header class="header-perfil">
+        <a href="../index.html" class="btn-voltar">← Voltar para a turma</a>
+        <h1>Murilo Bezerra</h1>
+    </header>
+
+    <main class="container-perfil">
+        <img src="../imagens/IMG_20261003_212918.jpg." alt="Foto do Aluno" class="foto-perfil">
+        <section class="bio">
+            <h2>Sobre mim</h2>
+            <p>Sou aluno da escola Etec Rosa Perrone do Estado de São Paulo</p>
+        </section>
+        <section class="links">
+            <h2>Redes e Projetos</h2>
+            <ul>
+                <li><a href="#" target="_blank">LinkedIn</a></li>
+                <li><a href="#" target="_blank">GitHub</a></li>
+            </ul>
+        </section>
+    </main>
+</body>
+</html>

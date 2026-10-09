@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Perfil - Brenda de Castro Silva</title>
+    <link rel="stylesheet" href="../css/estilo.css">
+</head>
+<body>
+    <header class="header-perfil">
+        <a href="../index.html" class="btn-voltar">← Voltar para a turma</a>
+        <h1>Brenda de Castro Silva</h1>
+    </header>
+
+    <main class="container-perfil">
+        <img src="brendaaa/imagens/placeholder.jpeg" alt="Foto do Aluno" class="foto-perfil">
+        <section class="bio">
+            <h2>Sobre mim</h2>
+            <p>aluno da ETEC rosa perrone scavone, cursando desenvolvimento de sistemas no período integral, no 1°D</p>
+        </section>
+        <section class="links">
+            <h2>Redes e Projetos</h2>
+            <ul>
+                <li><a href="https://github.com/brendacastrosilva" target="_blank">GitHub</a></li>
+            </ul>
+        </section>
+    </main>
+</body>
+</html>
